@@ -164,6 +164,7 @@ a {
   flex-grow: 1;
   margin: 0 1px;
   cursor: pointer;
+  border-radius: 6px;
 }
 
 #uptime .timeline i:hover {
