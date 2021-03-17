@@ -16,11 +16,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm787536877-2227f481a6eead6b19709f37',
-    'm787537027-6626080ffbc915b7dab0f11b',
-    'm787536863-e58018f2b83c8fb905fbb353',
-    'm787536991-7480b7db262724748ae32903',
-    'm787536999-5fc9fa624a6146f069a6c4d5',
+    'ur1233392-edf38f46cb66944079a99c40'
 
   ],
 
@@ -35,8 +31,9 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Blog',
-      url: 'https://cangshui.net
+      text: '博客',
+      url: 'https://cangshui.net/'
     }
   ]
 };
+
