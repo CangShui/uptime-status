@@ -9,7 +9,7 @@
 }
 
 body {
-  background: #F6F8FA url(./assets/background.png) center top;
+  background: #000000  url(./assets/background.png) center top;
   color: #3F4347;
   font-size: 12px;
   font-family: sans-serif;
@@ -40,7 +40,7 @@ a {
   top: 0;
   left: 0;
   right: 0;
-  background: #FFF;
+  background: #010101;
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.05);
   border-bottom: 1px solid #E3E4E6;
   z-index: 10;
@@ -75,7 +75,7 @@ a {
 
 
 #uptime {
-  background: #FFF;
+  background: #63636369;
   border: 1px solid #E3E4E6;
   border-radius: 5px;
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.05);
@@ -115,7 +115,7 @@ a {
 #uptime .meta .name {
   font-size: 16px;
   line-height: 20px;
-  color: #5A606B;
+  color: #aaaaaa;
 }
 
 #uptime .meta .link {
@@ -172,7 +172,7 @@ a {
 }
 
 #uptime .timeline i.ok {
-  background: #9FD8AC;
+  background: #28decd;
 }
 
 #uptime .timeline i.none {
