@@ -56,7 +56,7 @@ a {
 #header .logo {
   font-size: 18px;
   font-weight: bold;
-  color: #319848;
+  color: #28decd;
 }
 
 #header .navi {
@@ -140,12 +140,12 @@ a {
 
 #uptime .meta .status.ok {
   background-image: url(./assets/success.svg);
-  color: #28A745;
+  color: #28decd;
 }
 
 #uptime .meta .status.down {
   background-image: url(./assets/fail.svg);
-  color: #D9534F;
+  color: #e91e63;
 }
 
 #uptime .meta .status.unknow {
