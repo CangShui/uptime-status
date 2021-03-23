@@ -176,11 +176,11 @@ a {
 }
 
 #uptime .timeline i.none {
-  background: #F3F3F3;
+  background: #474747;
 }
 
 #uptime .timeline i.down {
-  background: #F29571;
+  background: #e91e63;
 }
 
 #uptime .tooltip {
